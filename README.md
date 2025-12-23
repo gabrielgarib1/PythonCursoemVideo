@@ -1,6 +1,9 @@
 # Python Course - What I Learned
 
-Simple overview of my Python programming course exercises and projects.
+Simple overview of online Python programming course exercises and projects.
+[**Playlist Classes Python Setup**](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0)
+
+![alt text](./learn-python-image.jpg)
 
 ## What I Learned
 
